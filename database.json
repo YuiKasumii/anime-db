@@ -140,22 +140,22 @@
       "thumbnail": "https://www.crunchyroll.com/imgsrv/display/thumbnail/1200x675/catalog/crunchyroll/d48d4a62b9a9acbcf5d1e16b66908168.jpe",
       "videoSources": [
         {
-          "url": "https://example.com/videos/demon-slayer-ep1-1080p.mp4",
+          "url": "https://pixeldrain.com/api/file/Vy5gjm51",
           "quality": "1080p",
           "server": "Server 1"
         },
         {
-          "url": "https://example.com/videos/demon-slayer-ep1-720p.mp4",
+          "url": "https://pixeldrain.com/api/file/Vy5gjm51",
           "quality": "720p",
           "server": "Server 1"
         },
         {
-          "url": "https://example.com/videos/demon-slayer-ep1-480p.mp4",
+          "url": "https://pixeldrain.com/api/file/Vy5gjm51",
           "quality": "480p",
           "server": "Server 1"
         },
         {
-          "url": "https://example.com/videos/demon-slayer-ep1-1080p-alt.mp4",
+          "url": "https://pixeldrain.com/api/file/Vy5gjm51",
           "quality": "1080p",
           "server": "Server 2"
         }
@@ -170,22 +170,22 @@
       "thumbnail": "https://www.crunchyroll.com/imgsrv/display/thumbnail/1200x675/catalog/crunchyroll/a7fb8e5a2b8eb9b1b2e9a67b5f8b2e5c.jpe",
       "videoSources": [
         {
-          "url": "https://example.com/videos/demon-slayer-ep2-1080p.mp4",
+          "url": "https://pixeldrain.com/api/file/Vy5gjm51",
           "quality": "1080p",
           "server": "Server 1"
         },
         {
-          "url": "https://example.com/videos/demon-slayer-ep2-720p.mp4",
+          "url": "https://pixeldrain.com/api/file/Vy5gjm51",
           "quality": "720p",
           "server": "Server 1"
         },
         {
-          "url": "https://example.com/videos/demon-slayer-ep2-480p.mp4",
+          "url": "https://pixeldrain.com/api/file/Vy5gjm51",
           "quality": "480p",
           "server": "Server 1"
         },
         {
-          "url": "https://example.com/videos/demon-slayer-ep2-1080p-alt.mp4",
+          "url": "https://pixeldrain.com/api/file/Vy5gjm51",
           "quality": "1080p",
           "server": "Server 2"
         }
