@@ -4,7 +4,7 @@
       "id": "a1",
       "title": "Demon Slayer: Kimetsu no Yaiba",
       "coverImage": "https://m.media-amazon.com/images/M/MV5BZjZjNzI5MDctY2Y4YS00NmM4LTljMmItZTFkOTExNGI3ODRhXkEyXkFqcGdeQXVyNjc3MjQzNTI@._V1_.jpg",
-      "bannerImage": "https://cdn.oneesports.gg/cdn-data/2022/02/DemonSlayer_EntertainmentDistrictArc_Tengen.jpg",
+      "bannerImage": "https://cdn.oneesports.gg/cdn-data/2022/06/DemonSlayer_Season3_SwordsmithVillageArc_KeyVisual.jpg",
       "synopsis": "Tanjiro Kamado's peaceful life is shattered when his family is slaughtered by a demon. His sister Nezuko is the sole survivor, but she has been transformed into a demon herself. Tanjiro sets out to become a demon slayer to avenge his family and find a cure for Nezuko.",
       "genres": ["Action", "Fantasy", "Historical", "Supernatural"],
       "type": "TV",
@@ -17,7 +17,7 @@
       "id": "a2",
       "title": "Attack on Titan",
       "coverImage": "https://flxt.tmsimg.com/assets/p10701949_b_v8_ah.jpg",
-      "bannerImage": "https://cdn.vox-cdn.com/thumbor/9zEQyBnMEQyJDz8CvULhFJ-gBTo=/0x0:1400x788/1200x800/filters:focal(588x282:812x506)/cdn.vox-cdn.com/uploads/chorus_image/image/70412073/0c3c20b6_4cde_4ba6_aac5_d5d9a8c5ce37_1.0.png",
+      "bannerImage": "https://cdn.vox-cdn.com/thumbor/9zEQyBnMEQyJDz8CvULhFJ-gBTo=/0x0:1400x788/1200x800/filters:focal(588x282:812x506)/cdn.vox-cdn.com/uploads/chorus_image/image/70412073/0377c76083423a1414e4001161e0cdffb0b36e1f_760x400.0.png",
       "synopsis": "Centuries ago, mankind was slaughtered to near extinction by monstrous humanoid creatures called Titans, forcing humans to hide in fear behind enormous concentric walls. What makes these giants truly terrifying is that their taste for human flesh is not born out of hunger but what appears to be out of pleasure.",
       "genres": ["Action", "Drama", "Fantasy", "Mystery"],
       "type": "TV",
@@ -55,8 +55,8 @@
     {
       "id": "a5",
       "title": "Jujutsu Kaisen",
-      "coverImage": "https://m.media-amazon.com/images/M/MV5BNGY4MTg3NzgtMmFkZi00NTg5LWExMmEtMWI3YzI1ODdmMWQ1XkEyXkFqcGdeQXVyMjQwMDg0Ng@@._V1_.jpg",
-      "bannerImage": "https://www.crunchyroll.com/imgsrv/display/thumbnail/1200x675/catalog/crunchyroll/e75f2dc23f2a22c4af01712af66e4d11.jpe",
+      "coverImage": "https://m.media-amazon.com/images/M/MV5BMTMwMDM4N2EtOTJiYy00OTQ0LThlZDYtYWUwOWFlY2IxZGVjXkEyXkFqcGdeQXVyNjAwNDUxODI@._V1_.jpg",
+      "bannerImage": "https://www.crunchyroll.com/imgsrv/display/thumbnail/1200x675/catalog/crunchyroll/e75f5e6d11a06472ae8b77c6c5e8f35d.jpe",
       "synopsis": "Yuji Itadori is a boy with tremendous physical strength, though he lives a completely ordinary high school life. One day, to save a classmate who has been attacked by curses, he eats the finger of Ryomen Sukuna, taking the curse into his own soul. From then on, he shares one body with Ryomen Sukuna.",
       "genres": ["Action", "Demons", "Horror", "School", "Shounen", "Supernatural"],
       "type": "TV",
@@ -68,8 +68,8 @@
     {
       "id": "a6",
       "title": "Spy x Family",
-      "coverImage": "https://m.media-amazon.com/images/M/MV5BNjRiM2E5NDgtNDhlMC00ZGI5LTg4NzEtODk1NDJlZTU2YzU0XkEyXkFqcGdeQXVyMTMzNDExODE5._V1_FMjpg_UX1000_.jpg",
-      "bannerImage": "https://www.crunchyroll.com/imgsrv/display/thumbnail/1200x675/catalog/crunchyroll/689e2efcf9f192ba6c0f7a538cf80dc2.jpe",
+      "coverImage": "https://m.media-amazon.com/images/M/MV5BNjRiM2JiNDUtZWQ0Ni00MTk5LWFhYTYtNTE5NTY1NmYxYjI3XkEyXkFqcGdeQXVyMzgxODM4NjM@._V1_FMjpg_UX1000_.jpg",
+      "bannerImage": "https://www.crunchyroll.com/imgsrv/display/thumbnail/1200x675/catalog/crunchyroll/689e2efcf9f192ba6c0f7a538ee99027.jpe",
       "synopsis": "For the agent known as 'Twilight,' no order is too high if it is for the sake of peace. Operating as Westalis' master spy, Twilight works tirelessly to prevent extremists from sparking a war with neighboring country Ostania. For his latest mission, he must investigate Ostanian politician Donovan Desmond by infiltrating his son's school: the prestigious Eden Academy.",
       "genres": ["Action", "Comedy", "Shounen"],
       "type": "TV",
@@ -82,7 +82,7 @@
       "id": "a7",
       "title": "Your Name",
       "coverImage": "https://m.media-amazon.com/images/M/MV5BNGYyNmI3M2YtNzYzZS00OTViLTkxYjAtZDIyZmE1Y2U1ZmQ2XkEyXkFqcGdeQXVyMTA4NjE0NjEy._V1_.jpg",
-      "bannerImage": "https://www.crunchyroll.com/imgsrv/display/thumbnail/1200x675/catalog/crunchyroll/d8eed44e3d48097ab5fd36f6c13a4237.jpe",
+      "bannerImage": "https://www.crunchyroll.com/imgsrv/display/thumbnail/1200x675/catalog/crunchyroll/d8eed44e3d48097ab5fd36f6c13a6916.jpe",
       "synopsis": "Mitsuha Miyamizu, a high school girl, yearns to live the life of a boy in the bustling city of Tokyo—a dream that stands in stark contrast to her present life in the countryside. Meanwhile in the city, Taki Tachibana lives a busy life as a high school student while juggling his part-time job and hopes for a future in architecture. One day, Mitsuha awakens in a room that is not her own and suddenly finds herself living the dream life in Tokyo—but in Taki's body!",
       "genres": ["Drama", "Romance", "Supernatural"],
       "type": "Movie",
@@ -129,32 +129,6 @@
       "rating": 9.2,
       "releaseDate": "2009-04-05",
       "episodes": 64
-    },
-    {
-      "id": "a11",
-      "title": "Frieren: Beyond Journey's End",
-      "coverImage": "https://m.media-amazon.com/images/M/MV5BZGMxZjEyNjAtYTQzZC00ZWUyLTgxM2ItYzExYzRjZjQzZjkwXkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_.jpg",
-      "bannerImage": "https://www.crunchyroll.com/imgsrv/display/thumbnail/1200x675/catalog/crunchyroll/d43f6c917c1c9de9bcee1d5f9303d577.jpe",
-      "synopsis": "The adventure is over but life goes on for an elf mage just beginning to learn what living is all about. Elf mage Frieren and her courageous fellow adventurers have defeated the Demon King and brought peace to the land. But Frieren will long outlive the rest of her former party. How will she come to understand what life means to the people around her?",
-      "genres": ["Adventure", "Drama", "Fantasy"],
-      "type": "TV",
-      "status": "Ongoing",
-      "rating": 9.0,
-      "releaseDate": "2023-09-29",
-      "episodes": 28
-    },
-    {
-      "id": "a12",
-      "title": "Oshi no Ko",
-      "coverImage": "https://m.media-amazon.com/images/M/MV5BOGVhYzJiMWYtZGQzZS00MDcwLWE2ZjQtZGRhZTAzZDRmYzk4XkEyXkFqcGdeQXVyMTEzMTI1Mjk3._V1_.jpg",
-      "bannerImage": "https://www.crunchyroll.com/imgsrv/display/thumbnail/1200x675/catalog/crunchyroll/a1722a934ef5b16c9b6398f566ec3958.jpe",
-      "synopsis": "When a pregnant young starlet appears in Dr. Gorou Amemiya's countryside medical clinic, he takes it upon himself to safely deliver her child. The girl, Ai Hoshino, is the rising star of a popular idol group and a cultural icon. Gorou, now the biggest fan of the girl whose life he saved, watches as she successfully gives birth to healthy twin babies. But shortly after, Ai is brutally murdered by an obsessed fan. In a twist of fate, Gorou discovers that he has been reincarnated as one of Ai's children.",
-      "genres": ["Drama", "Supernatural", "Psychological"],
-      "type": "TV",
-      "status": "Ongoing",
-      "rating": 8.7,
-      "releaseDate": "2023-04-12",
-      "episodes": 11
     }
   ],
   "episodes": [
@@ -163,7 +137,7 @@
       "animeId": "a1",
       "number": 1,
       "title": "Cruelty",
-      "thumbnail": "https://www.crunchyroll.com/imgsrv/display/thumbnail/1200x675/catalog/crunchyroll/d14055671db622aed7b5ba3192cab937.jpe",
+      "thumbnail": "https://www.crunchyroll.com/imgsrv/display/thumbnail/1200x675/catalog/crunchyroll/d48d4a62b9a9acbcf5d1e16b66908168.jpe",
       "videoSources": [
         {
           "url": "https://example.com/videos/demon-slayer-ep1-1080p.mp4",
@@ -193,7 +167,7 @@
       "animeId": "a1",
       "number": 2,
       "title": "Trainer Sakonji Urokodaki",
-      "thumbnail": "https://www.crunchyroll.com/imgsrv/display/thumbnail/1200x675/catalog/crunchyroll/a3e5c30e4b4a5e25a8e3da8f4e68a0d0.jpe",
+      "thumbnail": "https://www.crunchyroll.com/imgsrv/display/thumbnail/1200x675/catalog/crunchyroll/a7fb8e5a2b8eb9b1b2e9a67b5f8b2e5c.jpe",
       "videoSources": [
         {
           "url": "https://example.com/videos/demon-slayer-ep2-1080p.mp4",
@@ -223,7 +197,7 @@
       "animeId": "a2",
       "number": 1,
       "title": "To You, 2000 Years Later",
-      "thumbnail": "https://www.crunchyroll.com/imgsrv/display/thumbnail/1200x675/catalog/crunchyroll/9daa2f17d7ad2727d73c0a0a1ab8c785.jpe",
+      "thumbnail": "https://www.crunchyroll.com/imgsrv/display/thumbnail/1200x675/catalog/crunchyroll/9daa2f17d7ad2727d73b0d0c7a456f38.jpe",
       "videoSources": [
         {
           "url": "https://example.com/videos/aot-ep1-1080p.mp4",
@@ -253,7 +227,7 @@
       "animeId": "a2",
       "number": 2,
       "title": "That Day: The Fall of Shiganshina, Part 1",
-      "thumbnail": "https://www.crunchyroll.com/imgsrv/display/thumbnail/1200x675/catalog/crunchyroll/a7ef8d5a3a34142a4e050d7ed174767c.jpe",
+      "thumbnail": "https://www.crunchyroll.com/imgsrv/display/thumbnail/1200x675/catalog/crunchyroll/b82b4df9e8a4f50a28170ba44175d4a9.jpe",
       "videoSources": [
         {
           "url": "https://example.com/videos/aot-ep2-1080p.mp4",
@@ -283,7 +257,7 @@
       "animeId": "a3",
       "number": 1,
       "title": "Izuku Midoriya: Origin",
-      "thumbnail": "https://www.crunchyroll.com/imgsrv/display/thumbnail/1200x675/catalog/crunchyroll/f321c9b7c6997c8b9a9b6c6e7f8c67e8.jpe",
+      "thumbnail": "https://www.crunchyroll.com/imgsrv/display/thumbnail/1200x675/catalog/crunchyroll/7e023ac58c9e46f6cf09278b0c7aea99.jpe",
       "videoSources": [
         {
           "url": "https://example.com/videos/mha-ep1-1080p.mp4",
@@ -313,7 +287,7 @@
       "animeId": "a5",
       "number": 1,
       "title": "Ryomen Sukuna",
-      "thumbnail": "https://www.crunchyroll.com/imgsrv/display/thumbnail/1200x675/catalog/crunchyroll/d3f9f43a9d9a4b1e9a024c5e0e2f1679.jpe",
+      "thumbnail": "https://www.crunchyroll.com/imgsrv/display/thumbnail/1200x675/catalog/crunchyroll/a2b3f5de2c9a2b391e2e5e097b1c53c5.jpe",
       "videoSources": [
         {
           "url": "https://example.com/videos/jjk-ep1-1080p.mp4",
@@ -343,7 +317,7 @@
       "animeId": "a6",
       "number": 1,
       "title": "Operation Strix",
-      "thumbnail": "https://www.crunchyroll.com/imgsrv/display/thumbnail/1200x675/catalog/crunchyroll/2097d400e9103f56c8c2f10b58449d1e.jpe",
+      "thumbnail": "https://www.crunchyroll.com/imgsrv/display/thumbnail/1200x675/catalog/crunchyroll/d3bc5d217e12bc2a7b9d7e6c5c4c7d1a.jpe",
       "videoSources": [
         {
           "url": "https://example.com/videos/spyxfamily-ep1-1080p.mp4",
@@ -373,7 +347,7 @@
       "animeId": "a9",
       "number": 1,
       "title": "Dog & Chainsaw",
-      "thumbnail": "https://www.crunchyroll.com/imgsrv/display/thumbnail/1200x675/catalog/crunchyroll/d3f9f43a9d9a4b1e9a024c5e0e2f1679.jpe",
+      "thumbnail": "https://www.crunchyroll.com/imgsrv/display/thumbnail/1200x675/catalog/crunchyroll/922742d9acaeba7d887ed11b6caab0f4.jpe",
       "videoSources": [
         {
           "url": "https://example.com/videos/chainsaw-man-ep1-1080p.mp4",
@@ -397,68 +371,6 @@
         }
       ],
       "releaseDate": "2022-10-12"
-    },
-    {
-      "id": "e9",
-      "animeId": "a11",
-      "number": 1,
-      "title": "The Journey's End",
-      "thumbnail": "https://www.crunchyroll.com/imgsr  1,
-      "title": "The Journey's End",
-      "thumbnail": "https://www.crunchyroll.com/imgsrv/display/thumbnail/1200x675/catalog/crunchyroll/d43f6c917c1c9de9bcee1d5f9303d577.jpe",
-      "videoSources": [
-        {
-          "url": "https://example.com/videos/frieren-ep1-1080p.mp4",
-          "quality": "1080p",
-          "server": "Server 1"
-        },
-        {
-          "url": "https://example.com/videos/frieren-ep1-720p.mp4",
-          "quality": "720p",
-          "server": "Server 1"
-        },
-        {
-          "url": "https://example.com/videos/frieren-ep1-480p.mp4",
-          "quality": "480p",
-          "server": "Server 1"
-        },
-        {
-          "url": "https://example.com/videos/frieren-ep1-1080p-alt.mp4",
-          "quality": "1080p",
-          "server": "Server 2"
-        }
-      ],
-      "releaseDate": "2023-09-29"
-    },
-    {
-      "id": "e10",
-      "animeId": "a12",
-      "number": 1,
-      "title": "Mother and Children",
-      "thumbnail": "https://www.crunchyroll.com/imgsrv/display/thumbnail/1200x675/catalog/crunchyroll/a1722a934ef5b16c9b6398f566ec3958.jpe",
-      "videoSources": [
-        {
-          "url": "https://example.com/videos/oshi-no-ko-ep1-1080p.mp4",
-          "quality": "1080p",
-          "server": "Server 1"
-        },
-        {
-          "url": "https://example.com/videos/oshi-no-ko-ep1-720p.mp4",
-          "quality": "720p",
-          "server": "Server 1"
-        },
-        {
-          "url": "https://example.com/videos/oshi-no-ko-ep1-480p.mp4",
-          "quality": "480p",
-          "server": "Server 1"
-        },
-        {
-          "url": "https://example.com/videos/oshi-no-ko-ep1-1080p-alt.mp4",
-          "quality": "1080p",
-          "server": "Server 2"
-        }
-      ],
-      "releaseDate": "2023-04-12"
     }
   ]
 }
